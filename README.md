@@ -1,3 +1,3 @@
-# Nama : Dimas Noor Fatah menambahkan kata 
-## Nim : 312510203 menambahkan bagian nama dan nim ke README.md
+# Nama : Dimas Noor Fatah
+## Nim : 312510203 
 ## tugas belajar github 
