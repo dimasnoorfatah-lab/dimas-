@@ -24,6 +24,7 @@
 • masukan hasil screenshot di folder latihan1
 
 # - Menjumlahkan dua bilangan variable a dan b -
+<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/dbd54974-8b56-4403-b656-061a04ff6e2b" />
 
 • mendefinisikan variable a dengan nilai 8, dengan cara a=8
 
