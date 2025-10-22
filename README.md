@@ -11,6 +11,7 @@
 • membuka terminal dengan cara windows+r lalu mengetik cmd, kemudian run cmd di admininstrator dengan cara ctrl+shift+enter
 
 # - Membuat hello dan saya sedang belajar python di terminal -
+<img width="1911" height="1079" alt="Image" src="https://github.com/user-attachments/assets/96ee8983-76c7-4687-9241-b0b37ba10046" />
 
 • masuk mode python dengan cara ketik "python" dalam terminal
 
