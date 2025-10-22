@@ -12,7 +12,7 @@
 
 # - Membuat hello dan saya sedang belajar python di terminal -
 
-!(foto/Screenshot 2025-10-18 195602)
+![membuat hello dan saya sedang belajar pythone di terminal](foto/Screenshot 2025-10-18 195602)
 
 • masuk mode python dengan cara ketik "python" dalam terminal
 
