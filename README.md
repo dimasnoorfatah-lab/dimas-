@@ -69,32 +69,3 @@ contohnya:
 • ubah nama branch menjadi main dengan cara ketik "git branch -M main"
 
 • upload (push) folder lab1py ke GitHub dengan cara ketik "git push -u origin main"
-
-
-
-
-
-
-# Program Mengurutkan Data dari Terkecil ke Terbesar
-
-print("Program Mengurutkan Data")
-
-# Input tiga bilangan (bisa ditambah jika mau)
-bil1 = int(input("Bilangan ke-1 : "))
-bil2 = int(input("Bilangan ke-2 : "))
-bil3 = int(input("Bilangan ke-3 : "))
-
-# Masukkan bilangan ke dalam list
-bilangan = [bil1, bil2, bil3]
-
-# Urutkan dari yang terkecil ke terbesar
-bilangan.sort()
-
-# Tampilkan hasil urutan
-print("Urutan bilangan mulai dari terkecil:", *bilangan)
-
-• jika muncul permintaan login, masukkan username GitHub dan Personal Access Token (PAT) sebagai password
-
-• setelah proses selesai, buka repository GitHub lalu refresh halaman
-
-• maka folder lab1py beserta latihan1 dan latihan2 akan muncul di repository
